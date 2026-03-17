@@ -40,10 +40,10 @@ A console-based library management system built in **C++**. This program allows 
 
 ```
 Route_Library_System/
-├── main.cpp              # Main program with menu interface
-├── AllFunctions.h        # Function prototypes
-├── AllFunctions.cpp      # Function implementations
-└── README.md             # Project documentation
+├── Library Project.cpp              # Main program with menu interface
+├── AllFunctions.h                   # Function prototypes
+├── AllFunctions.cpp                 # Function implementations
+└── README.md                        # Project documentation
 ```
 
 ---
